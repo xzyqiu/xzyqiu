@@ -1,12 +1,12 @@
 # 👋 Hey, I’m Selim
 
 I’m a 11th grade student passionate about **programming, problem solving, and learning by doing**.  
-I’m currently improving my **Python** skills while exploring **algorithms**.
+I’m currently improving my **Python** skills.
 
 ---
 
 ## 🧠 What I’m Working On
-- Writing Python tools — like a file **encryption & decryption program** 🔐
+- Writing Python tools — mostly focused on **security** 🔐
 - Learning more about **system design** and **clean, efficient code**
 
 ---
