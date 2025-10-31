@@ -6,26 +6,17 @@ I’m currently improving my **Python** skills.
 ---
 
 ## 🧠 What I’m Working On
-- Writing Python tools — mostly focused on **security** 🔐
-- Learning more about **system design** and **clean, efficient code**
+- Building tools to **protect privacy**
+- Exploring computer science, cryptography, and security projects. 
 
 ---
 
 ## 🧩 Tech Stack
 **Languages:** Python, C#, SQL, Java, HTML, Css  
 **Databases:** MySQL, SQL Server Management Studio (SSMS)  
-**Tools & OS:** Visual Studio, VS Code, Git, Linux (Arch)
-
----
-
-## 🧬 Interests
-- Philosophy (especially **Nihilism**)  
-- Science, psychology, and how things work  
-- Linux, open-source software, and system customization
+**Tools & OS:** VS Code, Git, Linux (Arch)
 
 ---
 
 ## 🧭 Goals
-- Build solid, real-world projects to help make the internet a better place.
-- Learn and apply **critical thinking** in both code and life
-
+- Build solid, real-world security projects to help make the internet a better place.
