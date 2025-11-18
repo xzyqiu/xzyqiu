@@ -1,22 +1,17 @@
-# 👋 Hey, I’m Selim
+# Hi, I'm Xzyqiu 👋
 
-I’m a 11th grade student passionate about **programming, problem solving, and learning by doing**.  
-I’m currently improving my **Python** skills.
+I'm a high school student in 12th grade, passionate about programming, problem-solving, and building practical tools. I actively create projects that demonstrate my skills in Python.
 
----
+## 🛠 Tech Stack
+- **Languages:** Python, C#, Html, Css, Java
 
-## 🧠 What I’m Working On
-- Building tools to **protect privacy**
-- Exploring computer science, cryptography, and security projects. 
+## 🌱 Currently Learning
+- Advanced Python techniques
+- Web development
+- Security tools
+- Research-oriented programming approaches
 
----
+## 📫 Contact Me
+- Email: selimhocaoglu9@gmail.com
 
-## 🧩 Tech Stack
-**Languages:** Python, C#, SQL, Java, HTML, Css  
-**Databases:** MySQL, SQL Server Management Studio (SSMS)  
-**Tools & OS:** VS Code, Git, Linux (Arch)
-
----
-
-## 🧭 Goals
-- Build solid, real-world security projects to help make the internet a better place.
+> I build projects to solve problems and learn deeply. My goal is to contribute effectively in research projects and gain hands-on experience in technology development.
