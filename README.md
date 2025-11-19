@@ -1,6 +1,6 @@
-# Hi, I'm Selim 👋
+# Hi, I'm Xzyqiu 👋
 
-I'm a high school student in 12th grade, passionate about programming, problem-solving, and building practical tools. I actively create projects that demonstrate my skills in Python.
+I'm a high school student in 11th grade, passionate about programming, problem-solving, and building practical tools. I actively create projects that demonstrate my skills in Python.
 
 ## 🛠 Tech Stack
 - **Languages:** Python, C#, Html, Css, Java
