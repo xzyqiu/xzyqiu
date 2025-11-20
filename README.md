@@ -1,4 +1,4 @@
-# Hi, I'm Xzyqiu 👋
+# Hi, I'm Selim 👋
 
 I'm a high school student in 11th grade, passionate about programming, problem-solving, and building practical tools. I actively create projects that demonstrate my skills in Python.
 
