@@ -9,7 +9,6 @@ I'm a high school student in 11th grade, passionate about programming, problem-s
 - Advanced Python techniques
 - Web development
 - Security tools
-- Research-oriented programming approaches
 
 ## 📫 Contact Me
 - Email: selimhocaoglu9@gmail.com
